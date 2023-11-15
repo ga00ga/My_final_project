@@ -1,0 +1,17 @@
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\bin\Debug\net6.0-windows\GraphicalCommandInterpreter.exe
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\bin\Debug\net6.0-windows\GraphicalCommandInterpreter.deps.json
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\bin\Debug\net6.0-windows\GraphicalCommandInterpreter.runtimeconfig.json
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\bin\Debug\net6.0-windows\GraphicalCommandInterpreter.dll
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\bin\Debug\net6.0-windows\GraphicalCommandInterpreter.pdb
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\obj\Debug\net6.0-windows\GraphicalCommandInterpreter.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\obj\Debug\net6.0-windows\GraphicalCommandInterpreter.Form1.resources
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\obj\Debug\net6.0-windows\GraphicalCommandInterpreter.csproj.GenerateResource.cache
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\obj\Debug\net6.0-windows\GraphicalCommandInterpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\obj\Debug\net6.0-windows\GraphicalCommandInterpreter.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\obj\Debug\net6.0-windows\GraphicalCommandInterpreter.AssemblyInfo.cs
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\obj\Debug\net6.0-windows\GraphicalCommandInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\obj\Debug\net6.0-windows\GraphicalCommandInterpreter.dll
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\obj\Debug\net6.0-windows\refint\GraphicalCommandInterpreter.dll
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\obj\Debug\net6.0-windows\GraphicalCommandInterpreter.pdb
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\obj\Debug\net6.0-windows\GraphicalCommandInterpreter.genruntimeconfig.cache
+C:\Users\user\Downloads\AES178 (3)\GraphicalCommandInterpreter-master\obj\Debug\net6.0-windows\ref\GraphicalCommandInterpreter.dll
